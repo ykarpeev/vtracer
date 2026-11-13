@@ -967,6 +967,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "vtracer-ffi"
+version = "1.0.0-alpha.4"
+dependencies = [
+ "vtracer",
+]
+
+[[package]]
 name = "weezl"
 version = "0.1.12"
 source = "registry+https://github.com/rust-lang/crates.io-index"
